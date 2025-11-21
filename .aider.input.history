@@ -1,0 +1,36 @@
+
+# 2025-11-21 01:47:15.989942
++Code the following app
++```
++I want to build a hyper-addictive single-page pet game (pure HTML/CSS/JS, no external libraries) where the pet is an SVG that visibly grows, changes form, gets dirty/sick/happy based on timers.
++Core loop:  Mint page → choose from 8 base pets (SVG variants) → saved to localStorage  
++Pet dashboard: hunger, happiness, cleanliness, level, evolution stage (use setInterval timers, persist in localStorage)  
++Feed/clean/play = simple button clicks with animations + particle effects (CSS keyframes)  
++Daily check-in streak → bonus XP + rare items (7-day streak = evolution)  
++PvP battles = rock-paper-scissors style but with pet stats, animated fight scene (CSS transitions + canvas particles)  
++Breeding = select two of user’s pets → generate new SVG offspring (combine colors/traits randomly)  
++Marketplace tab = grid of fake user pets for sale (mock buy with fake $BASE)  
++Global leaderboard (hardcoded + local high score)  
++Neglect = pet gets sick/dies → can be revived by friend referral link (shareable URL that gives reviver a reward pet)
++Make the pet die permanently after 72h neglect unless revived – extreme emotional hook. Add share-to-Farcaster button that pre-fills "My pet just evolved! Check it out" with app link. Mobile-first, haptics, cute sounds (base64 embedded audio).
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-21 01:47:15.990363
++Code the following app
++```
++I want to build a hyper-addictive single-page pet game (pure HTML/CSS/JS, no external libraries) where the pet is an SVG that visibly grows, changes form, gets dirty/sick/happy based on timers.
++Core loop:  Mint page → choose from 8 base pets (SVG variants) → saved to localStorage  
++Pet dashboard: hunger, happiness, cleanliness, level, evolution stage (use setInterval timers, persist in localStorage)  
++Feed/clean/play = simple button clicks with animations + particle effects (CSS keyframes)  
++Daily check-in streak → bonus XP + rare items (7-day streak = evolution)  
++PvP battles = rock-paper-scissors style but with pet stats, animated fight scene (CSS transitions + canvas particles)  
++Breeding = select two of user’s pets → generate new SVG offspring (combine colors/traits randomly)  
++Marketplace tab = grid of fake user pets for sale (mock buy with fake $BASE)  
++Global leaderboard (hardcoded + local high score)  
++Neglect = pet gets sick/dies → can be revived by friend referral link (shareable URL that gives reviver a reward pet)
++Make the pet die permanently after 72h neglect unless revived – extreme emotional hook. Add share-to-Farcaster button that pre-fills "My pet just evolved! Check it out" with app link. Mobile-first, haptics, cute sounds (base64 embedded audio).
++```
++
++Generate an app logo and update the app metadata title and description.
